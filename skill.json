@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-hierarchical-context-summarization-condenser-skill",
+  "version": "1.0.0",
+  "description": "Hierarchical tree summarizer and semantic context condenser compressing multi-turn agent history into compact memory trees.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "tree-summarization",
+    "context-condenser",
+    "memory-tree",
+    "compression",
+    "genpark",
+    "mcp"
+  ]
+}
